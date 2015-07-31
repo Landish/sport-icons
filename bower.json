@@ -1,0 +1,20 @@
+{
+  "name": "sport-icons",
+  "version": "0.0.0",
+  "homepage": "https://github.com/Landish/sport-icons",
+  "authors": [
+    "Lado Lomidze <lado.lomidze@gmail.com>"
+  ],
+  "main" : [
+    "css/sport-icons.scss",
+    "images/sport-icons.png"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
