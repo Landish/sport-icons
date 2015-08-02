@@ -6,7 +6,7 @@
     "Lado Lomidze <lado.lomidze@gmail.com>"
   ],
   "main" : [
-    "css/sport-icons.scss",
+    "css/sport-icons.css",
     "images/sport-icons.png"
   ],
   "license": "MIT",
