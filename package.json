@@ -1,0 +1,28 @@
+{
+  "name": "sport-icons",
+  "version": "0.0.1",
+  "description": "Sport Icons",
+  "main": [
+    "dist/css/sport-icons.css",
+    "dist/images/sport-icons.png"
+  ],
+  "keywords" : ["sport", "icons", "sprite"],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Landish/sport-icons.git"
+  },
+  "author": "Lado Lomidze <lado.lomidze@gmail.com>",
+  "contributors": [
+    "Lado Lomidze <lado.lomidze@gmail.com>"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Landish/sport-icons/issues"
+  },
+  "homepage": "https://github.com/Landish/sport-icons#readme",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-if": "^1.2.5",
+    "sprity": "^1.0.7"
+  }
+}

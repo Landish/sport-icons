@@ -1,13 +1,13 @@
 {
   "name": "sport-icons",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "homepage": "https://github.com/Landish/sport-icons",
   "authors": [
     "Lado Lomidze <lado.lomidze@gmail.com>"
   ],
   "main" : [
-    "css/sport-icons.css",
-    "images/sport-icons.png"
+    "dist/css/sport-icons.css",
+    "dist/images/sport-icons.png"
   ],
   "license": "MIT",
   "ignore": [

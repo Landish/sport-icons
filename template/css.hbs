@@ -1,0 +1,17 @@
+{{#each layouts}}
+  {{#each sprites}}
+.{{cssesc ../classname}} {
+    background-image: url('{{escimage url}}');
+    display: inline-block;
+    vertical-align: middle;
+}
+{{/each}}
+
+{{#each layout.items}}
+.{{../classname}}-{{meta.name}} {
+    background-position: -{{baseDim x}}px -{{baseDim y}}px;
+    width: {{baseDim width}}px;
+    height: {{baseDim height}}px;
+}
+{{/each}}
+{{/each}}

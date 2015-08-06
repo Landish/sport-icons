@@ -1,0 +1,146 @@
+.sport {
+    background-image: url('../images/sport-icons.png');
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.sport-aussie {
+    background-position: -0px -0px;
+    width: 27px;
+    height: 27px;
+}
+.sport-badminton {
+    background-position: -133px -70px;
+    width: 20px;
+    height: 24px;
+}
+.sport-bandy {
+    background-position: -27px -80px;
+    width: 25px;
+    height: 25px;
+}
+.sport-baseball {
+    background-position: -27px -0px;
+    width: 27px;
+    height: 27px;
+}
+.sport-basketball {
+    background-position: -26px -54px;
+    width: 26px;
+    height: 26px;
+}
+.sport-beach-soccer {
+    background-position: -0px -27px;
+    width: 27px;
+    height: 27px;
+}
+.sport-beach-volleyball {
+    background-position: -133px -0px;
+    width: 24px;
+    height: 24px;
+}
+.sport-boxing {
+    background-position: -107px -24px;
+    width: 26px;
+    height: 24px;
+}
+.sport-curling {
+    background-position: -27px -27px;
+    width: 27px;
+    height: 27px;
+}
+.sport-cycling {
+    background-position: -107px -71px;
+    width: 22px;
+    height: 27px;
+}
+.sport-darts {
+    background-position: -79px -105px;
+    width: 27px;
+    height: 20px;
+}
+.sport-field-hockey {
+    background-position: -107px -0px;
+    width: 26px;
+    height: 24px;
+}
+.sport-floorball {
+    background-position: -0px -80px;
+    width: 27px;
+    height: 25px;
+}
+.sport-football {
+    background-position: -81px -26px;
+    width: 26px;
+    height: 25px;
+}
+.sport-futsal {
+    background-position: -52px -80px;
+    width: 25px;
+    height: 25px;
+}
+.sport-golf {
+    background-position: -54px -0px;
+    width: 27px;
+    height: 26px;
+}
+.sport-handball {
+    background-position: -81px -51px;
+    width: 25px;
+    height: 26px;
+}
+.sport-ice-hockey {
+    background-position: -27px -105px;
+    width: 27px;
+    height: 22px;
+}
+.sport-motor-sport {
+    background-position: -54px -105px;
+    width: 25px;
+    height: 22px;
+}
+.sport-rugby {
+    background-position: -81px -0px;
+    width: 26px;
+    height: 26px;
+}
+.sport-snooker {
+    background-position: -107px -48px;
+    width: 26px;
+    height: 23px;
+}
+.sport-soccer {
+    background-position: -52px -54px;
+    width: 26px;
+    height: 26px;
+}
+.sport-softball {
+    background-position: -54px -26px;
+    width: 26px;
+    height: 27px;
+}
+.sport-table-tennis {
+    background-position: -0px -105px;
+    width: 27px;
+    height: 23px;
+}
+.sport-tennis {
+    background-position: -133px -47px;
+    width: 23px;
+    height: 23px;
+}
+.sport-volleyball {
+    background-position: -0px -54px;
+    width: 26px;
+    height: 26px;
+}
+.sport-water-polo {
+    background-position: -77px -80px;
+    width: 25px;
+    height: 25px;
+}
+.sport-winter-sport {
+    background-position: -133px -24px;
+    width: 24px;
+    height: 23px;
+}
