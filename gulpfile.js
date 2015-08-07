@@ -7,7 +7,7 @@ gulp.task('default', function() {
         src: './src/*.png',
         orientation: 'binary-tree',
         template: 'template/css.hbs',
-        prefix: 'sport',
+        prefix: 'sport-icon',
         name: 'sport-icons',
         style: './sport-icons.css'
     }).pipe(gulpif('*.png', gulp.dest('./dist/images/'), gulp.dest('./dist/css/')))

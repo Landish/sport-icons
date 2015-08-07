@@ -1,6 +1,6 @@
 {
   "name": "sport-icons",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Sport Icons",
   "main": [
     "dist/css/sport-icons.css",
