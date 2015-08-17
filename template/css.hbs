@@ -4,14 +4,13 @@
     background-image: url('{{escimage url}}');
     display: inline-block;
     vertical-align: middle;
+    height: 16px;
+    width: 16px;
 }
 {{/each}}
-
 {{#each layout.items}}
 .{{../classname}}.{{meta.name}} {
     background-position: -{{baseDim x}}px -{{baseDim y}}px;
-    width: {{baseDim width}}px;
-    height: {{baseDim height}}px;
 }
 {{/each}}
 {{/each}}

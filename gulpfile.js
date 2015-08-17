@@ -6,6 +6,7 @@ gulp.task('default', function() {
     return sprity.src({
         src: './src/*.png',
         orientation: 'binary-tree',
+        margin: 0,
         template: 'template/css.hbs',
         prefix: 'sport-icon',
         name: 'sport-icons',
